@@ -4,12 +4,12 @@ This repository contains a mini-project focused on the sequence-level bioinforma
 
 Table of Contents
 
-Project Overview
-Tools and Methods
-Steps Performed
-Key Results
-Conclusion
-References
+1. Project Overview
+2. Tools and Methods
+3. Steps Performed
+4. Key Results
+5. Conclusion
+6. References
 
 Project Overview
 
