@@ -25,20 +25,13 @@ GENSCAN – Gene structure prediction (exons and introns)
 
 Steps Performed
 
-1. Sequence Retrieval
-2. Retrieved the TNF gene FASTA sequence from NCBI.
-3. DNA to Protein Translation
-4. Used BioEdit to translate DNA to the corresponding amino acid sequence.
-5. Open Reading Frame (ORF) Identification
-6. Located ORFs using BioEdit's ORF Finder.
-7. Nucleotide Composition Analysis
-8. Calculated A, T, G, C frequencies and GC content in the sequence.
-9. Transcription Factor Binding Site Prediction
-10. Used PROMO tool with Homo sapiens settings to identify potential TF binding regions.
-11. Functional Motif Discovery
-12. Employed MEME Suite to discover conserved motifs within the gene.
-13. Exon/Intron Structure Prediction
-14. Used GENSCAN to differentiate coding and non-coding regions of the gene.
+1. Sequence Retrieval: Retrieved the TNF gene FASTA sequence from NCBI.
+2. DNA to Protein Translation: Used BioEdit to translate DNA to the corresponding amino acid sequence.
+3. Open Reading Frame (ORF) Identification: Located ORFs using BioEdit's ORF Finder.
+4. Nucleotide Composition Analysis: Calculated A, T, G, C frequencies and GC content in the sequence.
+5. Transcription Factor Binding Site Prediction: Used PROMO tool with Homo sapiens settings to identify potential TF binding regions.
+6. Functional Motif Discovery: Employed MEME Suite to discover conserved motifs within the gene.
+7. Exon/Intron Structure Prediction: Used GENSCAN to differentiate coding and non-coding regions of the gene.
 
 Key Results
 
